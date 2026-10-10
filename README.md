@@ -1,1 +1,2 @@
-# fatdad-lab1
+Kuksa Zahar
+KM-43
